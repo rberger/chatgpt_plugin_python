@@ -9,15 +9,15 @@
     "type": "service_http",
     "authorization_type": "bearer",
     "verification_tokens": {
-      "openai": "<your-openai-token>"
+      "openai": "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"
     }
   },
    "api": {
     "type": "openapi",
-    "url": "https://<your-replit-app-name>.<your-replit-username>.repl.co/openapi.yaml",
+    "url": "https://FrontWaryChapters.rberger1.repl.co/openapi.yaml",
     "is_user_authenticated": false
   },
-  "logo_url": "https://example.com/logo.png",
-  "contact_email": "<your-email-address>",
-  "legal_info_url": "http://www.example.com/legal"
+  "logo_url": "https://www.ibd.com/wp-content/uploads/2023/04/Portrait-of-Rob-The-Expanse.png",
+  "contact_email": "rberger@ibd.com",
+  "legal_info_url": "https://www.ibd.com/privacy-policy/"
 }
